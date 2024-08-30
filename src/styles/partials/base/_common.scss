@@ -1,9 +1,8 @@
-
-
 .container {
     // background: white;
     // color:black;
     max-width: 1440px;
+    padding:0  1%;
     @include mx-auto;
     @include padding-x(0.75rem, 0.75rem);
 
@@ -33,24 +32,25 @@
     color: black;
 }
 
-.hero_wrapper{
+.hero_wrapper {
     background: white;
     // color: black;
 
 }
-.margin10{
+
+.margin10 {
     margin: 10px 20px;
     // background: white;
     // color: black;
 }
 
-.swiper-wrapper{
+.swiper-wrapper {
     background: white;
     // color: black;
 }
 
 section {
-   
+
     @include padding-y(1rem, 2rem);
     //@include padding-x(5rem, 5rem);
 }
@@ -220,35 +220,39 @@ section {
     background: var(--main-color) !important;
 }
 
-.sub-container{
+.sub-container {
     // margin: 1rem 0px;
-background-color: white;
-color: black;
+    background-color: white;
+    color: black;
 }
 
-.all_products_wrapper{
+.all_products_wrapper {
     width: 90vw;
     align-items: center;
     text-align: center;
-    table{
-        th{
+
+    table {
+        th {
             width: 10%;
         }
+
         // display: flex;
         // justify-content: space-between;
-        
-        img{
+
+        img {
             width: 50%;
         }
-        button{
+
+        button {
             // border: 1px solid black;
             margin: 2px;
             padding: 10px;
         }
-        .actions{
+
+        .actions {
             display: flex;
             height: 100%;
-            
+
         }
     }
 }
@@ -264,43 +268,48 @@ color: black;
 //         display: flex;
 //     }
 // }
-.modal_wrapper{
+.modal_wrapper {
     background: rgba(0, 0, 0, 0.599);
     color: white;
     font-weight: 700;
     width: 80vw;
-    margin:0px auto;
-    form{
+    margin: 0px auto;
+
+    form {
         width: 80vw;
         display: flex;
         justify-content: space-evenly;
-        ul{
-            p{
+
+        ul {
+            p {
                 color: rgba(0, 0, 0, 0);
             }
         }
     }
 
 }
-.addnewBtn{
+
+.addnewBtn {
     position: fixed;
     transform: scale(1.5);
     border: 1px solid black;
     padding: 7px 10px 10px 10px;
     border-radius: 50%;
-    top:20%;
+    top: 20%;
     left: 4%;
     animation: bounce 1s linear infinite alternate;
 }
 
 @keyframes bounce {
-0%{
-    transform: scale(1.2);
-}    
-50%{
-    transform: scale(1.4);
-}    
-100%{
-    transform: scale(1);
-}    
+    0% {
+        transform: scale(1.2);
+    }
+
+    50% {
+        transform: scale(1.4);
+    }
+
+    100% {
+        transform: scale(1);
+    }
 }

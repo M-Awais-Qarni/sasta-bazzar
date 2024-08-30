@@ -50,6 +50,9 @@ const ModalContent = () => {
   const handleSubmit = () => {
     console.log("NOthing doing");
   };
+  const toggle = () => {
+    // Your toggle functionality here
+  };
   const externalCloseBtn = (
     <button
       type="button"
@@ -256,4 +259,4 @@ const ModalContent = () => {
   );
 };
 
-export default { ModalContent};
+export default { ModalContent };
