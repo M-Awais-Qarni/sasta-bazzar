@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Quantico-Regular
+font link: https://fonts.google.com/specimen/Quantico
+font author: MADType
+font author site: http://www.madtype.com/
+
+
+icon designer: Royal@design
+icon designer link: /jualrumahsidoarjo.01
+        
+{"bg":"transparent","icon-gradient-0":"#181B80","icon-gradient-1":"#181ED9","font":"#000000","slogan":"#141414"}
+      

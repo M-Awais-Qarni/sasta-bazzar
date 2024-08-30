@@ -1,0 +1,24 @@
+.addcontainer{
+    padding: 3rem 6rem;
+    Form{
+
+        display: flex;
+        width: 90%;
+        margin: 0 auto;
+        color: black;
+        
+        ul{
+            padding: 2%;
+            width: 50%;
+            text-align: left;
+            Label{
+                width: 40%;
+
+            }
+        }
+
+        input{
+            // width: 90%;
+        }
+    }
+}

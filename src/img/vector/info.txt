@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LeagueMono-Medium
+font link: https://www.tylerfinck.com/shop/league-mono/
+font author: Tyler Finck
+font author site: https://www.tylerfinck.com/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Royal@design
+icon designer link: /jualrumahsidoarjo.01
+        
+{"bg":"transparent","icon-gradient-0":"#181B80","icon-gradient-1":"#181ED9","font":"#000000","slogan":"#141414"}
+      
